@@ -1,0 +1,1 @@
+Pentru a se deschide aplicația trebuie intrat în folderul "Executabil Aplicatie" si selectat "main.exe".
